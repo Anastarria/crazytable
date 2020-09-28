@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b064519f-9ea7-4032-86f5-67941dea096e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
+      <change beforePath="$USER_HOME$/Shop/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/Shop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/Shop/templates/index.tpl" beforeDir="false" afterPath="$USER_HOME$/Shop/templates/index.tpl" afterDir="false" />
+      <change beforePath="$USER_HOME$/Shop/templates_c/69ea7a5cd70c3e1b1718e3df20c0f2283c06141e_0.file.index.tpl.php" beforeDir="false" afterPath="$USER_HOME$/Shop/templates_c/69ea7a5cd70c3e1b1718e3df20c0f2283c06141e_0.file.index.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/sm/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Anastarria/Shop" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i3eMhUIzemhoVITiW6AERH4Xg2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Shop" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b064519f-9ea7-4032-86f5-67941dea096e" name="Default Changelist" comment="" />
+      <created>1601140657414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601140657414</updated>
+      <workItem from="1601140658650" duration="1805000" />
+      <workItem from="1601195640001" duration="594000" />
+      <workItem from="1601223903879" duration="12212000" />
+      <workItem from="1601270908207" duration="14587000" />
+      <workItem from="1601304437205" duration="8836000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="495" y="178" width="732" height="644" key="#Inspections" timestamp="1601278078675">
+      <screen x="72" y="27" width="1589" height="939" />
+    </state>
+    <state x="495" y="178" width="732" height="644" key="#Inspections/72.27.1589.939@72.27.1589.939" timestamp="1601278078675" />
+    <state x="557" y="254" width="424" height="491" key="FileChooserDialogImpl" timestamp="1601280003518">
+      <screen x="72" y="27" width="1589" height="939" />
+    </state>
+    <state x="412" y="254" width="424" height="491" key="FileChooserDialogImpl/72.27.1114.939@72.27.1114.939" timestamp="1601233094894" />
+    <state x="557" y="254" width="424" height="491" key="FileChooserDialogImpl/72.27.1589.939@72.27.1589.939" timestamp="1601280003518" />
+    <state x="355" y="131" width="1022" height="737" key="SettingsEditor" timestamp="1601308730280">
+      <screen x="72" y="27" width="1589" height="939" />
+    </state>
+    <state x="355" y="131" width="1022" height="737" key="SettingsEditor/72.27.1589.939@72.27.1589.939" timestamp="1601308730280" />
+    <state x="476" y="110" width="770" height="780" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601311379430">
+      <screen x="72" y="27" width="1589" height="939" />
+    </state>
+    <state x="476" y="110" width="770" height="780" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/72.27.1589.939@72.27.1589.939" timestamp="1601311379430" />
+    <state x="386" y="230" width="959" height="678" key="search.everywhere.popup" timestamp="1601308756847">
+      <screen x="72" y="27" width="1589" height="939" />
+    </state>
+    <state x="292" y="230" width="672" height="678" key="search.everywhere.popup/72.27.1114.939@72.27.1114.939" timestamp="1601242676174" />
+    <state x="386" y="230" width="959" height="678" key="search.everywhere.popup/72.27.1589.939@72.27.1589.939" timestamp="1601308756847" />
+  </component>
+</project>
